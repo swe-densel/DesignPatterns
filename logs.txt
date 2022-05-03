@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-02-22T06:36:06.821125Z</date>
+  <millis>1645511766821</millis>
+  <nanos>125000</nanos>
+  <sequence>0</sequence>
+  <logger>SaveProperties</logger>
+  <level>INFO</level>
+  <class>SaveProperties</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>INFO : {db.user=swe-densel, db.password=dbpass, db.url=localhost} </message>
+</record>
+<record>
+  <date>2022-02-22T06:36:06.856684Z</date>
+  <millis>1645511766856</millis>
+  <nanos>684000</nanos>
+  <sequence>1</sequence>
+  <logger>SaveProperties</logger>
+  <level>WARNING</level>
+  <class>SaveProperties</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>WARNING : {db.user=swe-densel, db.password=dbpass, db.url=localhost} </message>
+</record>
+<record>
+  <date>2022-02-22T06:36:06.857432Z</date>
+  <millis>1645511766857</millis>
+  <nanos>432000</nanos>
+  <sequence>2</sequence>
+  <logger>SaveProperties</logger>
+  <level>SEVERE</level>
+  <class>SaveProperties</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SEVERE : {db.user=swe-densel, db.password=dbpass, db.url=localhost} </message>
+</record>
+</log>

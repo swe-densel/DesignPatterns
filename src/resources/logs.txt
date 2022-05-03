@@ -1,0 +1,5 @@
+#Beginning Properties Batch 2
+#Mon Feb 14 11:17:19 PST 2022
+db.user=swe-densel
+db.password=dbpass
+db.url=localhost
